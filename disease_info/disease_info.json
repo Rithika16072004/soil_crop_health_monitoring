@@ -1,0 +1,91 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "description": "Bacterial infection causing dark, water-soaked spots on  leaves and fruits.",
+    "precautions": "Avoid overhead irrigation and ensure good field sanitation.",
+    "treatment": "Apply copper-based bactericides to limit spread."
+  },
+
+  "Pepper__bell___healthy": {
+    "description": "The  plant appears healthy with no visible disease symptoms.",
+    "precautions": "Maintain balanced fertilization and regular crop monitoring.",
+    "treatment": "No treatment required."
+  },
+
+  "Potato___Early_blight": {
+    "description": "Fungal disease causing brown concentric lesions on  leaves.",
+    "precautions": "Practice crop rotation and remove infected plant debris.",
+    "treatment": "Use fungicides containing mancozeb or chlorothalonil."
+  },
+
+  "Potato___healthy": {
+    "description": "The  plant shows no signs of disease and is healthy.",
+    "precautions": "Maintain proper irrigation and nutrient management.",
+    "treatment": "No treatment required."
+  },
+
+  "Potato___Late_blight": {
+    "description": "A severe fungal disease leading to rapid leaf blight and tuber rot.",
+    "precautions": "Avoid wet foliage and improve field drainage.",
+    "treatment": "Apply fungicides such as copper hydroxide promptly."
+  },
+
+  "Tomato__Target_Spot": {
+    "description": "Fungal disease characterized by dark target-like spots on leaves.",
+    "precautions": "Ensure proper spacing and airflow between plants.",
+    "treatment": "Apply chlorothalonil-based fungicides."
+  },
+
+  "Tomato__Tomato_mosaic_virus": {
+    "description": "Viral disease causing mottled leaves and stunted plant growth.",
+    "precautions": "Use certified disease-free seeds and disinfect tools.",
+    "treatment": "Remove infected plants; no chemical cure available."
+  },
+
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "description": "Viral infection causing yellowing, curling, and reduced fruit yield.",
+    "precautions": "Control whitefly vectors and use insect-proof nets.",
+    "treatment": "Remove severely infected plants; manage vectors."
+  },
+
+  "Tomato_Bacterial_spot": {
+    "description": "Bacterial disease producing small dark spots on plant foliage.",
+    "precautions": "Avoid overhead watering and sterilize equipment.",
+    "treatment": "Use copper-based bactericides."
+  },
+
+  "Tomato_Early_blight": {
+    "description": "Fungal disease forming concentric brown lesions on leaves.",
+    "precautions": "Remove infected leaves and rotate crops.",
+    "treatment": "Apply fungicides like mancozeb."
+  },
+
+  "Tomato_healthy": {
+    "description": "The  plant is healthy and free from disease.",
+    "precautions": "Continue proper agronomic practices.",
+    "treatment": "No treatment required."
+  },
+
+  "Tomato_Late_blight": {
+    "description": "Highly destructive fungal disease affecting leaves and fruits.",
+    "precautions": "Avoid wet conditions and improve ventilation.",
+    "treatment": "Apply copper fungicides immediately."
+  },
+
+  "Tomato_Leaf_Mold": {
+    "description": "Fungal disease common in humid environments causing mold growth.",
+    "precautions": "Reduce humidity and improve airflow.",
+    "treatment": "Use sulfur or copper-based fungicides."
+  },
+
+  "Tomato_Septoria_leaf_spot": {
+    "description": "Fungal disease causing circular spots with gray centers.",
+    "precautions": "Avoid splashing water on leaves and improve spacing.",
+    "treatment": "Apply chlorothalonil fungicide."
+  },
+
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "description": "Pest infestation causing stippling, webbing, and leaf damage.",
+    "precautions": "Increase humidity and regularly monitor crops.",
+    "treatment": "Use miticides or insecticidal soap."
+  }
+}
