@@ -148,15 +148,4 @@ To build a farmer-friendly AI system that:
 - Cloud database integration
 - Real-time weather API support
 
----
-
-## 👩‍💻 Developed By
-
-Final Year Engineering Project  
-Department of Computer Science / Artificial Intelligence  
-
----
-
-## 📄 License
-
-This project is developed for academic purposes.
+--
