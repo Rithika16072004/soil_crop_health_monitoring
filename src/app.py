@@ -45,7 +45,7 @@ DATA_DIR = os.path.join(BASE_DIR, "data")
 banner_path = os.path.join(BASE_DIR, "assets", "banner.png")
 
 if os.path.exists(banner_path):
-    st.sidebar.image(banner_path, use_container_width=True)
+    st.sidebar.image(banner_path, width=250)
 
 # ------------------ LANGUAGE SELECTOR ------------------
 language = st.sidebar.selectbox(
