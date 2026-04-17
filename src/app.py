@@ -45,7 +45,7 @@ DATA_DIR = os.path.join(BASE_DIR, "data")
 banner_path = os.path.join(BASE_DIR, "assets", "banner.png")
 
 if os.path.exists(banner_path):
-    st.sidebar.image(banner_path, width=250)
+    st.sidebar.image(banner_path)
 
 # ------------------ LANGUAGE SELECTOR ------------------
 language = st.sidebar.selectbox(
@@ -62,7 +62,7 @@ lang = LANG_MAP[language]
 
 
 # ------------------ TITLE ------------------
-st.title(translate_text("🌱 AI-Powered Crop & Plant Health Monitoring System", lang))
+st.title(translate_text("🌱 AI-Powered Crop & Soil Health Monitoring System", lang))
 
 st.write(
     translate_text(
